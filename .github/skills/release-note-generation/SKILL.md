@@ -158,7 +158,7 @@ Do not read all steps at once—only read the step you are executing.
 ## References
 
 - [Sample Output](./references/SampleOutput.md) - Example summary formatting
-- [Detailed Instructions](./references/Instruction.md) - Legacy full documentation
+- [Release scenarios](./references/scenarios/index.md) - Current release workflow documentation
 
 ## Conventions
 
